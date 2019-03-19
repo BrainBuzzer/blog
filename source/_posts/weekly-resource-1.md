@@ -1,5 +1,5 @@
 ---
-title: Weekly Programming Resource #1
+title: Weekly Programming Resource No. 1
 categories:
 - Programming
 - Resources
@@ -10,6 +10,7 @@ tags:
 - Elixir
 - Elm
 - Weekly
+date: 2019-03-12 06:40:12
 ---
 
 I have read a ton of stuff related to programming this week. So far, whatever I have read has been curated in this list. This list mostly consists of Elixir and Elm programming. I have also included some of the talks that I really loved.
